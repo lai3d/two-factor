@@ -9,3 +9,5 @@ TestResults
 # User specific settings
 *.suo
 *.user
+src/.vs/TwoFactor/v15/sqlite3/storage.ide
+src/.vs/config/applicationhost.config
